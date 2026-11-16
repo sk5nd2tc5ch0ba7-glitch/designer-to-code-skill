@@ -10,7 +10,7 @@
 ## 一、技术栈决策：我们的Skill需要Level 3吗？
 
 ### 用户环境确认
-- **宝宝的工具**：VSCode + Claude Code 插件（CC插件）
+- **作者的工具**：VSCode + Claude Code 插件（CC插件）
 - **Skill存放位置**：`.claude/skills/our-skill-name/`
 - **触发方式**：自动触发（AI根据description判断）
 
